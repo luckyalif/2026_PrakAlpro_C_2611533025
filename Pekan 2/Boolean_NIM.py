@@ -1,6 +1,3 @@
-# Buat file dengan nama Boolean_NIM.py
-# Nama variabel ditambah 4 digit nim terakhir contoh: nilai_1234
-# Deklarasi variabel dengan tipe data Boolean
 is_lulus = True
 is_cumlaude =True
 

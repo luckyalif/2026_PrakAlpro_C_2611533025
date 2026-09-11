@@ -1,6 +1,3 @@
-# Buat file dengan nama String_NIM.py
-# Nama variabel ditambah 4 digit NIM terakhir contoh: nama_1234
-# ganti program dan data masing2
 nama_3025="lucky"
 jenis_kelamin_3025 = 'L'
 alamat_3025 = """
