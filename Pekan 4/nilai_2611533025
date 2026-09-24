@@ -4,15 +4,15 @@
 # Program ini menggunakan fungsi input()
 # Program konvesi nilai angka menjadi huruf
 
-nilai = int(input("Inputkan nilai angka = "))
+nilai_3025 = int(input("Inputkan nilai angka = "))
 
-if nilai >= 81: 
+if nilai_3025 >= 81: 
     print("A")
-elif nilai >= 70: 
+elif nilai_3025 >= 70: 
     print("B")
-elif nilai >= 60: 
+elif nilai_3025 >= 60: 
     print("C")
-elif nilai >= 50: 
+elif nilai_3025 >= 50: 
     print("D")
 else:
     print("E")
