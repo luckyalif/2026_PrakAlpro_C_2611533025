@@ -1,0 +1,17 @@
+# Buat file dengan nama if_elif_else1_nim.py
+# Buat program untuk kondisional if
+# Nama variabel ditambah 4 digit nim terakhir contoh: ipk_1234
+# Program ini menggunakan fungsi input()
+
+umur = int(input("Input Umur Anda: "))
+sim = input("Apakah Anda Sudah Punya Sim C (y/t): ")[0]
+
+if umur >= 17 and sim == "y":
+    print("Anda sudah dewasa dan boleh bawa motor")
+elif umur >= 17 and sim != "y":
+    print("Anda sudah dewasa tetapi tidak boleh bawa motor")
+elif umur < 17 and sim == "y":
+    print("Anda Belum Cukup Umur punya SIM")
+else:
+    print("Anda Belum Cukup Umur dan tidak boleh bawa motor")
+print("Program Selesai")
